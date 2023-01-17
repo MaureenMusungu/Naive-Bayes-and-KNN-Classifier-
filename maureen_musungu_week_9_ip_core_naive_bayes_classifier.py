@@ -12,6 +12,8 @@ import seaborn as sns
 
 # Reading the data
 
+##
+##
 data = pd.read_csv('spambase Data.csv')
 
 # Previewing the top of the data
